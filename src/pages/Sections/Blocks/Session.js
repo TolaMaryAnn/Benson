@@ -1,8 +1,8 @@
 import React from "react";
-import Ben from "../Images/Ben.png";
-import insta from "../Images/insta.png";
-import facebook from "../Images/facebook.png";
-import twitter from "../Images/twitter.png";
+import Ben from "../../../Images/Ben.png";
+import insta from "../../../Images/insta.png";
+import facebook from "../../../Images/facebook.png";
+import twitter from "../../../Images/twitter.png";
 const  Session =()=> {
     return(
             <div>

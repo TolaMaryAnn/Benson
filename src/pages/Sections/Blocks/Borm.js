@@ -1,7 +1,7 @@
 import React from "react";
-import Benson2 from "../Images/Benson2.png";
+import Benson2 from "../../../Images/Benson2.png";
 
-import Polygon from "../Images/Polygon.png";
+import Polygon from "../../../Images/Polygon.png";
 const  Borm =()=> {
     return(
         <div>

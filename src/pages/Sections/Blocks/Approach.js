@@ -1,10 +1,10 @@
 import React from "react";
-import closed from "../Images/closed.png"
-import Vector from "../Images/Vector.png"
-import line from "../Images/line.png"
+import closed from "../../../Images/closed.png"
+import Vector from "../../../Images/Vector.png"
+import line from "../../../Images/line.png"
 const  Approach =()=> {
     return(
-        <div style={{backgroundColor:'black'}}>
+        <div style={{backgroundColor:'#1D1D1D'}}>
             {/* web */}
             <div className="container uk-align-center uk-height-viewport uk-visible@m" style={{display:'flex',flexDirection:'row',justifyContent:'space-between'}}>
                     <div >
@@ -21,7 +21,7 @@ const  Approach =()=> {
                         </div>
                         </div>
                         <div  style={{marginTop:150}}>
-                        <img src={closed} style={{marginLeft:250,backgroundColor:'black'}} />
+                        <img src={closed} style={{marginLeft:250,backgroundColor:'#1D1D1D'}} />
                         </div>
                         
                     </div>
@@ -119,7 +119,7 @@ const  Approach =()=> {
                         </div>
                         </div>
                         <div  style={{marginTop:50}}>
-                        <img src={closed} style={{backgroundColor:'black',width:228,height:309}} />
+                        <img src={closed} style={{backgroundColor:'#1D1D1D',width:228,height:309}} />
                         </div>
                         
                     </div>

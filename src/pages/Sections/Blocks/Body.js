@@ -1,15 +1,15 @@
 import React from "react"
-import Benson1 from "../Images/Benson1.png";
-import Benson from "../Images/Benson.png";
-import Polygon from "../Images/Polygon.png";
-import women from "../Images/women.png";
-import Vector from "../Images/Vector.png";
-import line from "../Images/line.png";
-import hand from "../Images/hand.png";
+import Benson1 from "../../../Images/Benson1.png";
+import Benson from "../../../Images/Benson.png";
+import Polygon from "../../../Images/Polygon.png";
+import women from "../../../Images/women.png";
+import Vector from "../../../Images/Vector.png";
+import line from "../../../Images/line.png";
+import hand from "../../../Images/hand.png";
 const  Body =()=> {
     return(
         
-        <div className="uk-height-viewport " style={{backgroundColor:'black'}}>
+        <div className="uk-height-viewport " style={{backgroundColor:'#1D1D1D'}}>
             {/* web */}
             <div class="uk-text-center container uk-visible@m" >
         <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0" >

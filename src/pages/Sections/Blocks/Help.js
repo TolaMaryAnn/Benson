@@ -1,5 +1,5 @@
 import React from "react"
-import help from "../Images/help.png"
+import help from "../../../Images/help.png"
 const  Help =()=> {
     return(
         <div style={{backgroundColor:'white'}}>

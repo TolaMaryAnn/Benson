@@ -1,10 +1,10 @@
 
 import React from "react";
-import hand from "../Images/hand.png";
+import hand from "../../../Images/hand.png";
 
 const  Vision =()=> {
     return(
-        <div className="" style={{backgroundColor:'black'}}>
+        <div className="" style={{backgroundColor:'#1D1D1D'}}>
             {/* web */}
             <div className="container uk-visible@m " style={{display:'flex',flexDirection:'column'}} >
                <div style={{marginLeft:80}}>
